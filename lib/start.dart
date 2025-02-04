@@ -19,7 +19,7 @@ class StartAfterUp extends StatelessWidget {
                 height: MediaQuery.of(context).size.width * 0.5,
                 decoration: BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage('assets/iconEmpat.png'),
+                    image: AssetImage('assets/images/astromi.png'),
                     fit: BoxFit.contain,
                   ),
                 ),

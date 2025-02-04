@@ -42,7 +42,7 @@ class EditProfile extends StatelessWidget {
               const SizedBox(height: 10),
               const Center(
                 child: Text(
-                  "User1234",
+                  "Hikmatunnisa",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 18,
